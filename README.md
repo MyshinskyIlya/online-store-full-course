@@ -1,7 +1,7 @@
 
 <h1>Application</h1>
 <p>
-    <i>Full stack online store application. It help to learn how to connect frontend to backend and how to work with PostgreSQL (sequelize, models, controllers, pg Admin 4, Insomnia) and MobX (observer). This task was completed according to the course from the Ulbi TV YouTube channel, I express my great gratitude to the author. In my implementation version, I translated the project to TS and added some client changes.
+    <i>Full stack online store application. It help to learn how to connect frontend to backend and how to work with PostgreSQL (sequelize, models, controllers, pg Admin 4, Insomnia) and MobX (observer).This task was completed according to the course from the Ulbi TV YouTube channel, I express my great gratitude to the author. <br><br>In my implementation version, I translated the project to TS and added some client changes.
 <hr>
 <div>
     <h2>Tech stack</h2>
